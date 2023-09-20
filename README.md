@@ -1,6 +1,8 @@
 # Hi, mein Name ist Mathias 👋
 
-**`Auf dem Weg zum FullStack Entwickler`**</br>
+**`Auf dem Weg zum FullStack Entwickler`**
+
+</br>
 
 Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer Weiterbildung bei Techstarter zum DevOps/Cloud Engineer, habe aber das Ziel, mich in die Richtung Fullstack Entwickler zu bewegen. Als begeisterter Entwickler und Technologie-Enthusiast ist es meine Leidenschaft, innovative Lösungen zu entwickeln und zu implementieren, um komplexe Herausforderungen zu meistern. Ich liebe es, Neues auszuprobieren, zu lernen und mich ständig weiterzuentwickeln. 
 
@@ -30,6 +32,9 @@ Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer 
 <img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
 <img align="left" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 <img align="left" alt="GoDot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
+
+</br>
+
 ---
 
 </br>
