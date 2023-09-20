@@ -50,6 +50,7 @@ Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer 
 - [To-Do List](https://github.com/Satisfraction/to-do-list)
 - [Mathe-Helfer](https://github.com/Satisfraction/Mathe-Helfer)
 - [Memory Card Spiel](https://github.com/Satisfraction/Memory-Card-Spiel)
+- und weitere Interessante Projekte
 
 </br>
 
