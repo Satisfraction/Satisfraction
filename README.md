@@ -1,11 +1,11 @@
 # Hallo, mein Name ist Mathias 👋
 
+**`Auf dem Weg zum FullStack Entwickler`**
+
 </br>
 
 ![GitHub followers](https://img.shields.io/github/followers/Satisfraction?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Satisfraction?style=social)
-
-**`Auf dem Weg zum FullStack Entwickler`**
 
 </br>
 
