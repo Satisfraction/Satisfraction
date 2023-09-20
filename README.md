@@ -36,6 +36,8 @@ Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer 
 
 </br>
 
+---
+
 ### 🖥️ Projekte
 
 - [HTML, CSS, JavaScript Magic](https://github.com/Satisfraction/html-css-js-magic)
