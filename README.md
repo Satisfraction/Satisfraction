@@ -40,10 +40,6 @@ Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer 
 - [Mathe-Helfer](https://github.com/Satisfraction/Mathe-Helfer)
 - [Memory Card Spiel](https://github.com/Satisfraction/Memory-Card-Spiel)
 
-### 📷 Bilder
-
-![Profilbild](img/profile.png)
-![Logo](img/logo.png)
 
 ### ℹ️ Interessen und Ziele
 
