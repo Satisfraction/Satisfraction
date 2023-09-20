@@ -60,3 +60,5 @@ Meine Interessen umfassen das Ausprobieren neuer Technologien, die Entwicklung v
 Mein Ziel ist es, so viel wie möglich zu lernen und mich kontinuierlich weiterzuentwickeln.
 
 Ich freue mich darauf, meine Arbeit mit der Community zu teilen und von anderen Entwicklern zu lernen. Lasst uns gemeinsam die Zukunft der Technologie gestalten!
+
+![Meine GitHub stats](https://github-readme-stats.vercel.app/api?username=Satisfraction&show_icons=true&theme=radical)
