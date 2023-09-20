@@ -55,6 +55,7 @@ Herzlich willkommen auf meinem GitHub-Profil! Ich befinde mich aktuell in einer 
 
 ### ℹ️ Interessen und Ziele
 
-Meine Interessen umfassen das Ausprobieren neuer Technologien, die Entwicklung von Programmen, IoT und Videospiele. Mein Ziel ist es, so viel wie möglich zu lernen und mich kontinuierlich weiterzuentwickeln.
+Meine Interessen umfassen das Ausprobieren neuer Technologien, die Entwicklung von Programmen, IoT und Videospiele. 
+Mein Ziel ist es, so viel wie möglich zu lernen und mich kontinuierlich weiterzuentwickeln.
 
 Ich freue mich darauf, meine Arbeit mit der Community zu teilen und von anderen Entwicklern zu lernen. Lasst uns gemeinsam die Zukunft der Technologie gestalten!
