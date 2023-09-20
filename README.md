@@ -1,9 +1,7 @@
 # Hallo, mein Name ist Mathias 👋
 
-<p align="right">
-  <img src="https://img.shields.io/github/followers/Satisfraction?style=social" alt="GitHub followers">
-  <img src="https://img.shields.io/github/stars/Satisfraction?style=social" alt="GitHub stars">
-</p>
+  <img align="right" src="https://img.shields.io/github/followers/Satisfraction?style=social" alt="GitHub followers">
+  <img align="right" src="https://img.shields.io/github/stars/Satisfraction?style=social" alt="GitHub stars">
 
 **`Auf dem Weg zum FullStack Entwickler`**
 
